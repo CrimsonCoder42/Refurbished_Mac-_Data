@@ -1,0 +1,101 @@
+price,year,model,condition,cpu,ram,hard drive
+679,2018,mini,excellent,3.6GHz quad-core,8GB,512GB SSD
+759,2020,mini,like new,M1 Chip,8GB,512GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB ,256GB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,256GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+5099,2019,27-inch iMac,good,3.8GHz 8-core Intel Core i7,128GB,2TB SSD
+16489,2019,Mac Pro,good,"2.7GHz 24-core Intel Xeon W, Two Radeon Pro Vega II, Apple Afterburner",96GB,1TB SSD
+17759,2019,Mac Pro,like new,"2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",384GB,4TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,256GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+5099,2019,27-inch iMac,good,3.8GHz 8-core Intel Core i7,128GB,2TB SSD
+16489,2019,Mac Pro,good,"2.7GHz 24-core Intel Xeon W, Two Radeon Pro Vega II, Apple Afterburner",96GB,1TB SSD
+17759,2019,Mac Pro,like new,"2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",384GB,4TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+17759,2019,Mac Pro,like new,"2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",384GB,4TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,256GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+5099,2019,27-inch iMac,good,3.8GHz 8-core Intel Core i7,128GB,2TB SSD
+679,2018,mini,excellent,3.6GHz quad-core,8GB,512GB SSD
+759,2020,mini,like new,M1 Chip,8GB,512GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB ,256GB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,256GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+5099,2019,27-inch iMac,good,3.8GHz 8-core Intel Core i7,128GB,2TB SSD
+16489,2019,Mac Pro,good,"2.7GHz 24-core Intel Xeon W, Two Radeon Pro Vega II, Apple Afterburner",96GB,1TB SSD
+17759,2019,Mac Pro,like new,"2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",384GB,4TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+679,2018,mini,excellent,3.6GHz quad-core,8GB,512GB SSD
+759,2020,mini,like new,M1 Chip,8GB,512GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB ,256GB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,256GB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+5099,2019,27-inch iMac,good,3.8GHz 8-core Intel Core i7,128GB,2TB SSD
+16489,2019,Mac Pro,good,"2.7GHz 24-core Intel Xeon W, Two Radeon Pro Vega II, Apple Afterburner",96GB,1TB SSD
+17759,2019,Mac Pro,like new,"2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",384GB,4TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+849,2020,MacBook Air,excellent,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+849,2020,MacBook Air,good,8 Core CPU and 7 Core GPU,8GB,256GB SSD
+889,2017,21.5-inch iMac,good,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+929,2020,MacBook Air,excellent,1.1GHz quad-core Intel Core i5,8GB,512GB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
+929,2019,21.5-inch iMac ,like new,2.3GHz dual-core Intel Core i5,8GB,1TB SSD
+5779,2020,27-inch iMac,excellent,3.6GHz 10-core Intel Core i9,128GB ,2TB SSD
